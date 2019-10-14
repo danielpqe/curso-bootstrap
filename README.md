@@ -1,2 +1,2 @@
-# curso-bootstrap
+# Curso Bootstrap
 ## Grids system
